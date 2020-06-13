@@ -1,0 +1,2 @@
+rootProject.name='CustomLayoutInflater'
+include ':app'
